@@ -5,14 +5,6 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Vista.MainActivity">
+    tools:context=".Vista.AdminDashboardActivity">
 
-    <EditText
-        android:id="@+id/editTextTextEmailAddress"
-        android:layout_width="wrap_content"
-        android:layout_height="48dp"
-        android:ems="10"
-        android:inputType="textEmailAddress"
-        tools:layout_editor_absoluteX="68dp"
-        tools:layout_editor_absoluteY="140dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
